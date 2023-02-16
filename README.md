@@ -1,7 +1,9 @@
 # Arsip-FiturLogin
 an aplication that contains feature login
 
-step by step in the feature login : 
-  1. fill your email and password
-  2. input validation
-  3. display the home page
+Steap by steap feature login :
+1. Memasukkan nama, email, dan password
+2. Memvalidasi masukan.
+3. Memvalidasi pengguna dengan deteksi wajah.
+4. Memasukkan nama ibu untuk validasi.
+5. Menampilkan halaman home.
