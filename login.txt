@@ -1,3 +1,2 @@
 ini halaman login
 Menginput username dan password
-terdapat qr code 
