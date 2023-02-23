@@ -1,1 +1,1 @@
-Halaman jika berhasil login
+Halaman jika berhasil login, terdapat beberapa menu yang dapat diakses
